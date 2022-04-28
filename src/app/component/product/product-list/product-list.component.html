@@ -1,0 +1,4 @@
+<div class="product-list">
+  <!-- <app-product-item *ngIf="products"  [products]="products"></app-product-item> -->
+  <app-product-item *ngIf="products$ | async as products" [products]="products"></app-product-item>
+</div>

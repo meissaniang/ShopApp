@@ -1,0 +1,18 @@
+footer{
+}
+
+.footer-content{
+  background-color: #09D183;
+  height: calc(100vh - 70vh - 80px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.footer-botom{
+  background-color: rgb(1, 43, 1);
+  height: 70px;
+}

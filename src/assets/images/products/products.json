@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "1",
+    "name": "iphone 7",
+    "description": "iphone 7 et 7 plus ",
+    "category": ["portable", "iphone"],
+    "imageUrl": [
+      "assets/images/products/iphone_7/1.webp",
+      "assets/images/products/iphone_7/2.webp",
+      "assets/images/products/iphone_7/3.webp"
+    ],
+    "solde_price": 100000,
+    "regular_price": 120000,
+    "createdAt": "2022-04-16-14T16:51:07.815Z"
+  },
+  {
+    "_id": "2",
+    "name": "iphone 8",
+    "description": "iphone 8 et 8 plus ",
+    "category": ["portable", "iphone"],
+    "imageUrl": [
+      "assets/images/products/iphone_8/1.webp",
+      "assets/images/products/iphone_8/2.webp"
+    ],
+    "solde_price": 100000,
+    "regular_price": 120000,
+    "createdAt": "2022-04-16-14T16:51:07.815Z"
+  },
+  {
+    "_id": "3",
+    "name": "iphone X",
+    "description": "iphone X et X MAX ",
+    "category": ["portable", "iphone"],
+    "imageUrl": ["assets/images/products/iphone_8/1.webp"],
+    "solde_price": 100000,
+    "regular_price": 120000,
+    "createdAt": "2022-04-16-14T16:51:07.815Z"
+  }
+]
